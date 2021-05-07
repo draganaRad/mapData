@@ -4,8 +4,8 @@ const legendSettings = [{ color: '#4292C6', key: 'LS', title: 'Low Stress', chec
 { color: '#F16913', key: 'HS', title: 'High Stress', checked: true}]
 //{ key: 'desig', title: 'Bike Designated Only', checked: true}]
 
-const layerSettings = [{key: 'LSdesig', color: '#4292C6', url: 'data/design_low_stress.json'},
-{key: 'HSdesig', color: '#F16913', url: 'data/design_high_stress.json'},
+const layerSettings = [{key: 'LSdesig', color: '#4292C6', url: 'https://draganarad.github.io/mapData/data/design_low_stress.json'},
+{key: 'HSdesig', color: '#F16913', url: 'https://draganarad.github.io/mapData/data/design_high_stress.json'},
 {key: 'LSother', color: '#4292C6', url: 'data/low_stress.json'},
 {key: 'HSother', color: '#F16913', url: 'data/high_stress.json'}]
 
@@ -27,7 +27,7 @@ if (L.Browser.mobile) {
   var myRenderer = L.canvas({ padding: 0.1, tolerance: 5 });
   var map = L.map("map", { center: centerCoord, zoom: 10, renderer: myRenderer, zoomControl: false });
 } else {
-  var map = L.map("map", { center: centerCoord, zoom: 11 });
+  var map = L.map("map", { center: centerCoord, zoom: 10 });
 }
 L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
