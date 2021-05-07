@@ -77,7 +77,7 @@ function addLegend() {
       '<div class="clearfix"></div>' +
       '<form><fieldset class="checkbox-pill clearfix">'
 
-    legendHtml += '<div class="button quiet col12">Tri-Cities Cycling Traffic Stress</div>'
+    legendHtml += '<div class="button quiet col12">Metro Vancouver Cycling Traffic Stress</div>'
     for (let setting of legendSettings) {
       legendHtml += addLegendLine(setting)
     }
