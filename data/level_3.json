@@ -3173,50 +3173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "way/23811357",
-        "highway": "tertiary",
-        "lanes": "4",
-        "name": "West 2nd Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because there are 3 or more lanes and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.0947166,
-            49.3180298
-          ],
-          [
-            -123.0941849,
-            49.3180213
-          ],
-          [
-            -123.0940099,
-            49.3180381
-          ],
-          [
-            -123.0938016,
-            49.3181047
-          ],
-          [
-            -123.0936426,
-            49.3181716
-          ],
-          [
-            -123.09353,
-            49.3182284
-          ],
-          [
-            -123.0934785,
-            49.3182789
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "way/23848155",
         "highway": "secondary",
         "lanes": "2",
@@ -9401,12 +9357,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.7612205,
-            49.0166316
+            -122.7612265,
+            49.0166496
           ],
           [
-            -122.760592,
-            49.0166723
+            -122.7605904,
+            49.0166892
           ]
         ]
       }
@@ -23416,182 +23372,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "way/45362188",
-        "highway": "tertiary",
-        "lanes": "4",
-        "name": "West 2nd Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because there are 3 or more lanes and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.0934785,
-            49.3182789
-          ],
-          [
-            -123.0930956,
-            49.3186133
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "way/45362189",
-        "highway": "tertiary",
-        "lanes": "4",
-        "name": "West 2nd Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because there are 3 or more lanes and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.0930956,
-            49.3186133
-          ],
-          [
-            -123.0928703,
-            49.3188357
-          ],
-          [
-            -123.0927616,
-            49.318907
-          ],
-          [
-            -123.0926725,
-            49.3189564
-          ],
-          [
-            -123.092561,
-            49.3190005
-          ],
-          [
-            -123.0924213,
-            49.3190378
-          ],
-          [
-            -123.0922545,
-            49.3190531
-          ],
-          [
-            -123.0920939,
-            49.3190554
-          ],
-          [
-            -123.0918762,
-            49.3190521
-          ],
-          [
-            -123.0916903,
-            49.3190481
-          ],
-          [
-            -123.0915856,
-            49.3190458
-          ],
-          [
-            -123.0914491,
-            49.3190442
-          ],
-          [
-            -123.0902173,
-            49.3190296
-          ],
-          [
-            -123.0901209,
-            49.3190289
-          ],
-          [
-            -123.0897975,
-            49.3190371
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "way/45362189",
-        "highway": "tertiary",
-        "lanes": "4",
-        "name": "West 2nd Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because there are 3 or more lanes and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.0930956,
-            49.3186133
-          ],
-          [
-            -123.0928703,
-            49.3188357
-          ],
-          [
-            -123.0927616,
-            49.318907
-          ],
-          [
-            -123.0926725,
-            49.3189564
-          ],
-          [
-            -123.092561,
-            49.3190005
-          ],
-          [
-            -123.0924213,
-            49.3190378
-          ],
-          [
-            -123.0922545,
-            49.3190531
-          ],
-          [
-            -123.0920939,
-            49.3190554
-          ],
-          [
-            -123.0918762,
-            49.3190521
-          ],
-          [
-            -123.0916903,
-            49.3190481
-          ],
-          [
-            -123.0915856,
-            49.3190458
-          ],
-          [
-            -123.0914491,
-            49.3190442
-          ],
-          [
-            -123.0902173,
-            49.3190296
-          ],
-          [
-            -123.0901209,
-            49.3190289
-          ],
-          [
-            -123.0897975,
-            49.3190371
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "way/45395710",
         "highway": "secondary",
         "lanes": "2",
@@ -30323,44 +30103,48 @@
             49.2213186
           ],
           [
-            -123.1585856,
-            49.21991
+            -123.1585983,
+            49.2199126
           ],
           [
-            -123.1585759,
-            49.2197604
+            -123.1585853,
+            49.2197665
           ],
           [
-            -123.158554,
-            49.2196396
+            -123.1585661,
+            49.2196482
           ],
           [
-            -123.1585312,
-            49.2195606
+            -123.1585422,
+            49.219565
           ],
           [
-            -123.1584866,
-            49.2194267
+            -123.1585066,
+            49.2194442
           ],
           [
-            -123.1584082,
-            49.2192371
+            -123.1584256,
+            49.2192511
           ],
           [
             -123.158305,
             49.2190485
           ],
           [
-            -123.1580863,
-            49.2187862
+            -123.1581735,
+            49.2188685
           ],
           [
-            -123.1578415,
-            49.2185427
+            -123.1580118,
+            49.2186916
           ],
           [
-            -123.1569956,
-            49.2177008
+            -123.1570706,
+            49.2177625
+          ],
+          [
+            -123.1570094,
+            49.2177053
           ]
         ]
       }
@@ -33042,16 +32826,16 @@
             49.2580176
           ],
           [
-            -123.1880263,
+            -123.1880277,
             49.2580466
           ],
           [
-            -123.1907467,
-            49.2580876
+            -123.1907908,
+            49.2580996
           ],
           [
-            -123.1910568,
-            49.2581135
+            -123.1910644,
+            49.2581023
           ]
         ]
       }
@@ -33156,8 +32940,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1851517,
-            49.2564904
+            -123.1851514,
+            49.2564906
+          ],
+          [
+            -123.1851504,
+            49.2564185
           ],
           [
             -123.1851358,
@@ -33165,7 +32953,7 @@
           ],
           [
             -123.1851452,
-            49.2546798
+            49.2546797
           ],
           [
             -123.1851547,
@@ -35423,8 +35211,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1464012,
-            49.2085821
+            -123.1464179,
+            49.2085816
           ],
           [
             -123.145269,
@@ -50453,12 +50241,12 @@
             49.2205922
           ],
           [
-            -122.6015839,
-            49.2205291
+            -122.6015705,
+            49.2205439
           ],
           [
-            -122.6017458,
-            49.2204903
+            -122.6016339,
+            49.2204844
           ]
         ]
       }
@@ -51838,6 +51626,14 @@
           [
             -123.0049263,
             49.2148945
+          ],
+          [
+            -123.0049275,
+            49.215079
+          ],
+          [
+            -123.00493,
+            49.2153926
           ],
           [
             -123.0049311,
@@ -58317,16 +58113,16 @@
             49.0970946
           ],
           [
-            -123.0257807,
-            49.0971302
+            -123.0257665,
+            49.0971638
           ],
           [
-            -123.0254347,
-            49.097204
+            -123.0254826,
+            49.0972235
           ],
           [
-            -123.0249918,
-            49.0972377
+            -123.0251368,
+            49.0972607
           ]
         ]
       }
@@ -60030,8 +59826,12 @@
             49.2572834
           ],
           [
-            -123.1851517,
-            49.2564904
+            -123.1851524,
+            49.2565639
+          ],
+          [
+            -123.1851514,
+            49.2564906
           ]
         ]
       }
@@ -60670,8 +60470,12 @@
             49.2579886
           ],
           [
-            -123.1935529,
-            49.2579748
+            -123.193679,
+            49.2579778
+          ],
+          [
+            -123.193561,
+            49.2579752
           ]
         ]
       }
@@ -60722,8 +60526,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1910568,
-            49.2581135
+            -123.1910644,
+            49.2581023
           ],
           [
             -123.1918008,
@@ -60734,8 +60538,12 @@
             49.2581275
           ],
           [
-            -123.1935465,
-            49.258141
+            -123.1934478,
+            49.2581401
+          ],
+          [
+            -123.1935599,
+            49.2581404
           ]
         ]
       }
@@ -60797,15 +60605,15 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1910745,
-            49.2579426
+            -123.1910681,
+            49.2579414
           ],
           [
-            -123.1907487,
-            49.2579377
+            -123.1907945,
+            49.2579387
           ],
           [
-            -123.188026,
+            -123.1880294,
             49.2578971
           ],
           [
@@ -61575,8 +61383,8 @@
             49.2637456
           ],
           [
-            -123.2318505,
-            49.2636393
+            -123.2317856,
+            49.263634
           ]
         ]
       }
@@ -61620,12 +61428,8 @@
             49.2637117
           ],
           [
-            -123.2316264,
-            49.2637558
-          ],
-          [
-            -123.231695,
-            49.2637707
+            -123.2315911,
+            49.2637488
           ],
           [
             -123.2318796,
@@ -64935,16 +64739,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.0249918,
-            49.0972377
+            -123.0251368,
+            49.0972607
           ],
           [
-            -123.0254355,
-            49.0972562
+            -123.0254485,
+            49.0972792
           ],
           [
-            -123.0257151,
-            49.0973174
+            -123.025742,
+            49.0973351
           ],
           [
             -123.0259938,
@@ -68270,15 +68074,15 @@
         "coordinates": [
           [
             -123.1971492,
-            49.2580442
+            49.2580526
           ],
           [
-            -123.1970477,
-            49.2580418
+            -123.1970475,
+            49.2580506
           ],
           [
-            -123.1965614,
-            49.2580281
+            -123.1965761,
+            49.2580464
           ]
         ]
       }
@@ -68300,8 +68104,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1965614,
-            49.2580281
+            -123.1965761,
+            49.2580464
           ],
           [
             -123.1950796,
@@ -72176,7 +71980,7 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1429427,
+            -123.1429554,
             49.2085735
           ],
           [
@@ -72184,8 +71988,8 @@
             49.2085624
           ],
           [
-            -123.1422946,
-            49.2085592
+            -123.1422942,
+            49.2085595
           ]
         ]
       }
@@ -90286,20 +90090,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1717397,
-            49.2274566
+            -123.1717698,
+            49.2274739
           ],
           [
-            -123.1715147,
-            49.2273662
+            -123.1715146,
+            49.2273909
           ],
           [
-            -123.1712797,
-            49.2272655
+            -123.1712832,
+            49.2272937
           ],
           [
-            -123.1711202,
-            49.2271974
+            -123.1710944,
+            49.2272176
           ]
         ]
       }
@@ -91597,16 +91401,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1711202,
-            49.2271974
+            -123.1710944,
+            49.2272176
           ],
           [
-            -123.1709321,
-            49.227117
+            -123.1709758,
+            49.2271691
           ],
           [
-            -123.1703346,
-            49.2268061
+            -123.1702917,
+            49.2267991
           ],
           [
             -123.1688156,
@@ -91753,16 +91557,16 @@
             49.2299243
           ],
           [
-            -123.1758602,
-            49.2290608
+            -123.1758864,
+            49.229074
           ],
           [
             -123.1753023,
             49.2288478
           ],
           [
-            -123.174655,
-            49.2285971
+            -123.1746537,
+            49.2285964
           ],
           [
             -123.1736062,
@@ -93492,12 +93296,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1935529,
-            49.2579748
+            -123.193561,
+            49.2579752
           ],
           [
-            -123.1910745,
-            49.2579426
+            -123.1934503,
+            49.2579729
+          ],
+          [
+            -123.1910681,
+            49.2579414
           ]
         ]
       }
@@ -93517,8 +93325,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1935465,
-            49.258141
+            -123.1935599,
+            49.2581404
+          ],
+          [
+            -123.1936766,
+            49.2581407
           ],
           [
             -123.194098,
@@ -95875,12 +95687,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.760592,
-            49.0166723
+            -122.7605904,
+            49.0166892
           ],
           [
-            -122.7600425,
-            49.0167068
+            -122.7600517,
+            49.0167227
           ]
         ]
       }
@@ -97177,8 +96989,8 @@
             49.3051171
           ],
           [
-            -122.9729666,
-            49.3050043
+            -122.973043,
+            49.3050384
           ]
         ]
       }
@@ -97400,8 +97212,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -122.9729666,
-            49.3050043
+            -122.973043,
+            49.3050384
           ],
           [
             -122.9727656,
@@ -98085,6 +97897,10 @@
           [
             -122.8648992,
             49.111832
+          ],
+          [
+            -122.8659736,
+            49.1118237
           ],
           [
             -122.8663221,
@@ -98797,11 +98613,11 @@
       "properties": {
         "id": "way/497947774",
         "highway": "tertiary",
-        "lanes": "2",
+        "lanes": "3",
         "maxspeed": "50",
         "name": "60 Avenue",
         "surface": "asphalt",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
+        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,Increasing LTS to 3 because there are 3 or more lanes and no parking.",
         "cycleway": "lane"
       },
       "geometry": {
@@ -101339,10 +101155,11 @@
       "properties": {
         "id": "way/511767596",
         "highway": "primary",
+        "lanes": "3",
         "maxspeed": "50",
         "name": "Main Street",
         "surface": "asphalt",
-        "decisionMsg": "Does not meet criteria for Separated Path or Bike Lane. Treating as Mixed Traffic.,No 'lanes' tag. Assuming default of 2.,Setting LTS to 3 because maxspeed is up to 50 km/h and lanes are 3 or less on non-residential highway.",
+        "decisionMsg": "Does not meet criteria for Separated Path or Bike Lane. Treating as Mixed Traffic.,Setting LTS to 3 because maxspeed is up to 50 km/h and lanes are 3 or less on non-residential highway.",
         "bicycle": "yes",
         "cycleway": "shared_lane",
         "name.zh": "緬街"
@@ -103033,7 +102850,7 @@
             49.2581838
           ],
           [
-            -123.1972599,
+            -123.19726,
             49.2581857
           ],
           [
@@ -103067,11 +102884,11 @@
             49.258149
           ],
           [
-            -123.1965459,
-            49.2581732
+            -123.1965744,
+            49.2581733
           ],
           [
-            -123.1970437,
+            -123.1970438,
             49.2581822
           ],
           [
@@ -103102,12 +102919,12 @@
             49.2580571
           ],
           [
-            -123.1972639,
-            49.2580458
+            -123.1972637,
+            49.2580549
           ],
           [
             -123.1971492,
-            49.2580442
+            49.2580526
           ]
         ]
       }
@@ -103778,6 +103595,111 @@
           [
             -122.8009334,
             49.1190723
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/569569347",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "50",
+        "name": "84 Avenue",
+        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
+        "cycleway": "lane"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.8013595,
+            49.1555436
+          ],
+          [
+            -122.8012706,
+            49.1555442
+          ],
+          [
+            -122.80122,
+            49.1555445
+          ],
+          [
+            -122.8008853,
+            49.1555439
+          ],
+          [
+            -122.8006278,
+            49.1555436
+          ],
+          [
+            -122.8004551,
+            49.1555434
+          ],
+          [
+            -122.7999672,
+            49.1555403
+          ],
+          [
+            -122.799043,
+            49.1555303
+          ],
+          [
+            -122.7979718,
+            49.1555271
+          ],
+          [
+            -122.7965225,
+            49.1555222
+          ],
+          [
+            -122.795119,
+            49.1555174
+          ],
+          [
+            -122.7947812,
+            49.1555161
+          ],
+          [
+            -122.7929847,
+            49.1555107
+          ],
+          [
+            -122.7915171,
+            49.1555045
+          ],
+          [
+            -122.790244,
+            49.1555019
+          ],
+          [
+            -122.7901293,
+            49.1555006
+          ],
+          [
+            -122.7900198,
+            49.1554986
+          ],
+          [
+            -122.7894412,
+            49.1554979
+          ],
+          [
+            -122.7873927,
+            49.1554933
+          ],
+          [
+            -122.7865877,
+            49.1554915
+          ],
+          [
+            -122.7858367,
+            49.1554906
+          ],
+          [
+            -122.7854012,
+            49.1554884
           ]
         ]
       }
@@ -108129,30 +108051,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "way/633260324",
-        "highway": "tertiary",
-        "lanes": "4",
-        "name": "West 1st Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because there are 3 or more lanes and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.0957498,
-            49.3180489
-          ],
-          [
-            -123.0947166,
-            49.3180298
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "way/638200603",
         "cycleway.right": "lane",
         "highway": "secondary",
@@ -108375,37 +108273,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "way/647503492",
-        "highway": "secondary",
-        "maxspeed": "50",
-        "name": "Main Street",
-        "surface": "asphalt",
-        "decisionMsg": "Does not meet criteria for Separated Path or Bike Lane. Treating as Mixed Traffic.,No 'lanes' tag. Assuming default of 2.,Setting LTS to 3 because maxspeed is up to 50 km/h and lanes are 3 or less on non-residential highway.",
-        "bicycle": "yes",
-        "cycleway": "shared_lane",
-        "name.zh": "緬街"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.0997907,
-            49.2782172
-          ],
-          [
-            -123.0997785,
-            49.2784938
-          ],
-          [
-            -123.0997763,
-            49.2785846
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "way/653564507",
         "highway": "tertiary",
         "maxspeed": "30",
@@ -108505,8 +108372,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1569956,
-            49.2177008
+            -123.1570094,
+            49.2177053
           ],
           [
             -123.1554235,
@@ -108546,12 +108413,20 @@
             49.2145977
           ],
           [
-            -123.1531499,
-            49.2138861
+            -123.1531606,
+            49.2138992
           ],
           [
-            -123.1518523,
-            49.212606
+            -123.1519325,
+            49.212672
+          ],
+          [
+            -123.1518703,
+            49.2126081
+          ],
+          [
+            -123.1518201,
+            49.2125607
           ],
           [
             -123.149566,
@@ -108578,28 +108453,28 @@
             49.2088588
           ],
           [
-            -123.147818,
-            49.2087466
+            -123.1478415,
+            49.2087619
           ],
           [
-            -123.1474232,
-            49.2086233
+            -123.147619,
+            49.2086868
           ],
           [
-            -123.1470973,
-            49.2085809
+            -123.1473756,
+            49.2086308
           ],
           [
-            -123.1466931,
-            49.2085793
+            -123.1470941,
+            49.2085946
           ],
           [
-            -123.1465504,
-            49.2085807
+            -123.1469232,
+            49.2085846
           ],
           [
-            -123.1464012,
-            49.2085821
+            -123.1464179,
+            49.2085816
           ]
         ]
       }
@@ -108894,8 +108769,8 @@
             49.2247863
           ],
           [
-            -123.1641091,
-            49.2242567
+            -123.1641282,
+            49.2242675
           ],
           [
             -123.1639166,
@@ -112189,12 +112064,8 @@
             49.2276766
           ],
           [
-            -123.1718097,
-            49.2274866
-          ],
-          [
-            -123.1717397,
-            49.2274566
+            -123.1717698,
+            49.2274739
           ]
         ]
       }
@@ -112214,15 +112085,15 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1442619,
+            -123.1442583,
             49.2086006
           ],
           [
-            -123.1437187,
+            -123.1437183,
             49.2085968
           ],
           [
-            -123.1429427,
+            -123.1429554,
             49.2085735
           ]
         ]
@@ -115229,62 +115100,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "way/779431602",
-        "highway": "tertiary",
-        "lanes": "2",
-        "name": "West 1st Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.098332,
-            49.3180768
-          ],
-          [
-            -123.096919,
-            49.3180628
-          ],
-          [
-            -123.0958037,
-            49.3180499
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "way/779431609",
-        "highway": "tertiary",
-        "lanes": "2",
-        "name": "West 1st Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.0998512,
-            49.3180858
-          ],
-          [
-            -123.098898,
-            49.3180824
-          ],
-          [
-            -123.098332,
-            49.3180768
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "way/783202888",
         "highway": "primary",
         "lanes": "3",
@@ -116805,8 +116620,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.2318505,
-            49.2636393
+            -123.2317856,
+            49.263634
           ],
           [
             -123.2315198,
@@ -118149,10 +117964,11 @@
       "properties": {
         "id": "way/826604853",
         "highway": "secondary",
+        "lanes": "3",
         "maxspeed": "50",
         "name": "Main Street",
         "surface": "asphalt",
-        "decisionMsg": "Does not meet criteria for Separated Path or Bike Lane. Treating as Mixed Traffic.,No 'lanes' tag. Assuming default of 2.,Setting LTS to 3 because maxspeed is up to 50 km/h and lanes are 3 or less on non-residential highway.",
+        "decisionMsg": "Does not meet criteria for Separated Path or Bike Lane. Treating as Mixed Traffic.,Setting LTS to 3 because maxspeed is up to 50 km/h and lanes are 3 or less on non-residential highway.",
         "bicycle": "yes",
         "cycleway": "shared_lane",
         "name.zh": "緬街"
@@ -118369,7 +118185,7 @@
         "type": "LineString",
         "coordinates": [
           [
-            -123.1554592,
+            -123.1554585,
             49.2383057
           ],
           [
@@ -120642,7 +120458,7 @@
             49.2086005
           ],
           [
-            -123.1442619,
+            -123.1442583,
             49.2086006
           ]
         ]
@@ -121360,10 +121176,11 @@
       "properties": {
         "id": "way/850173160",
         "highway": "primary",
+        "lanes": "3",
         "maxspeed": "50",
         "name": "Main Street",
         "surface": "asphalt",
-        "decisionMsg": "Does not meet criteria for Separated Path or Bike Lane. Treating as Mixed Traffic.,No 'lanes' tag. Assuming default of 2.,Setting LTS to 3 because maxspeed is up to 50 km/h and lanes are 3 or less on non-residential highway.",
+        "decisionMsg": "Does not meet criteria for Separated Path or Bike Lane. Treating as Mixed Traffic.,Setting LTS to 3 because maxspeed is up to 50 km/h and lanes are 3 or less on non-residential highway.",
         "bicycle": "yes",
         "cycleway": "shared_lane",
         "name.zh": "緬街"
@@ -121507,86 +121324,6 @@
           [
             -122.8123235,
             49.0232923
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "way/856862172",
-        "highway": "tertiary",
-        "lanes": "2",
-        "name": "West 1st Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.1034376,
-            49.3179098
-          ],
-          [
-            -123.1030466,
-            49.3179863
-          ],
-          [
-            -123.1024815,
-            49.3180765
-          ],
-          [
-            -123.1023616,
-            49.3180839
-          ],
-          [
-            -123.1006206,
-            49.3180885
-          ],
-          [
-            -123.0998512,
-            49.3180858
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "way/856862172",
-        "highway": "tertiary",
-        "lanes": "2",
-        "name": "West 1st Street",
-        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
-        "cycleway": "lane"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -123.1034376,
-            49.3179098
-          ],
-          [
-            -123.1030466,
-            49.3179863
-          ],
-          [
-            -123.1024815,
-            49.3180765
-          ],
-          [
-            -123.1023616,
-            49.3180839
-          ],
-          [
-            -123.1006206,
-            49.3180885
-          ],
-          [
-            -123.0998512,
-            49.3180858
           ]
         ]
       }
@@ -128954,6 +128691,96 @@
           [
             -122.8678936,
             49.1503137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/937816875",
+        "cycleway.right": "lane",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "50",
+        "name": "128 Street",
+        "surface": "asphalt",
+        "decisionMsg": "Way has a bike lane because 'cycleway:right'='lane'.,Parking is not present.,Increasing LTS to 3 because there are 3 or more lanes and no parking."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -122.8677719,
+            49.1109849
+          ],
+          [
+            -122.8677671,
+            49.1118097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/940251075",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "West 1st Street",
+        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
+        "cycleway": "lane"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1034376,
+            49.3179098
+          ],
+          [
+            -123.1030466,
+            49.3179863
+          ],
+          [
+            -123.1024815,
+            49.3180765
+          ],
+          [
+            -123.1023616,
+            49.3180839
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "way/940251075",
+        "highway": "tertiary",
+        "lanes": "2",
+        "name": "West 1st Street",
+        "decisionMsg": "Way has a bike lane because 'cycleway'='lane'.,Parking is not present.,No maxspeed tag. Using default value of 50 when highway='tertiary'.,Increasing LTS to 3 because highway with bike lane is not 'residential' and no parking.",
+        "cycleway": "lane"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -123.1034376,
+            49.3179098
+          ],
+          [
+            -123.1030466,
+            49.3179863
+          ],
+          [
+            -123.1024815,
+            49.3180765
+          ],
+          [
+            -123.1023616,
+            49.3180839
           ]
         ]
       }
