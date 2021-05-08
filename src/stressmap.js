@@ -48,6 +48,8 @@ if (L.Browser.mobile) {
   }).addTo(map);
 }
 
+map.addControl(new L.Control.Fullscreen());
+
 addLegend()
 // show/hide legend
 document.getElementById('legendbtn').onclick = function () { toggleDisplay(['legendbtn', 'legend']) };
